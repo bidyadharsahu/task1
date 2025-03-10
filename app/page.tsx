@@ -323,3 +323,4 @@ function InternshipTable({ internships, onDelete, onStatusChange }: InternshipTa
     </Card>
   )
 }
+
